@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Backend
 - 💞️ I’m looking to collaborate on python
 - 📫 How to reach me
-- <a href="https://www.linkedin.com/in/himanshu-jadon-130960226" target>linkedin</a>
+- <a href="https://www.linkedin.com/in/himanshu-jadon-130960226" target="_blank">linkedin</a>
   
 
 <!---
